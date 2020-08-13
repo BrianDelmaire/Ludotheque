@@ -1,0 +1,36 @@
+
+#info{
+    font-weight: bold;
+    background-color: dimgrey;
+}
+
+h1,h2,p{
+    text-align: center;
+}
+table {
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    width:100%;
+    border-collapse:collapse;
+
+}
+
+td {
+    border-width:1px;
+    border-style:solid;
+    border-color:black;
+    text-align:center;
+}
+
+.m{
+    width: 10%;
+}
+.g{
+    width:25%;
+}
+caption {
+    font-weight:bold
+}
+
+
